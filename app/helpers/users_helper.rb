@@ -8,4 +8,5 @@ module UsersHelper
 #{size}
 "
   end
+  
 end
